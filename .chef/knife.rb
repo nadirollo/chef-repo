@@ -1,0 +1,1 @@
+cookbook_path [ '/Users/nadir/workspace/chef-repo/cookbooks' ]
